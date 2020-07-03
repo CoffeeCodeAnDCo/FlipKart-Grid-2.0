@@ -1,2 +1,8 @@
 # FlipKart-Grid-2.0
-Codes for FlipKart grid
+Hey guys this the official platform for the Team CoffeCode & Co. Feel free to upload any codes in the repositories in which you are working on. Also, update the readme file on what the update is about; for example as given.
+
+FlipKart Grid 2.0
+
+UPDATE:Repository Created
+
+UPDATE:README updated.
