@@ -6,3 +6,5 @@ FlipKart Grid 2.0
 UPDATE:Repository Created
 
 UPDATE:README updated.
+
+UPDATE:3 refrences have been added. Two pdfs for object detection, and one youtube link for robotic help using raspberry pi.
